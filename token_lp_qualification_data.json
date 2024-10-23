@@ -2,7 +2,7 @@
   {
     "contractAddress": "0x",
     "lockedOneYear": true,
-    "shareOfTotalSupply": "10%", 
-    "topHolder": "7%" 
+    "shareOfTotalSupply": 0.1, 
+    "topHolder": 0.07 
   }
 ]
