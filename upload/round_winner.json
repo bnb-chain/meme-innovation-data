@@ -1,0 +1,18 @@
+[
+  {
+    "round": 1,
+    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+  },
+  {
+    "round": 2,
+    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+  },
+  {
+    "round": 3,
+    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+  },
+  {
+    "round": 4,
+    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+  }
+]
