@@ -1,11 +1,11 @@
 [
   {
     "round": 1,
-    "winner_address": ["0x6cdd08de79231a1957f205a3fe5cf9dbf4b0c454", "0x9b4b7e5e48bb2f6c9a94c21484d67b7c1cfef37c", "contractAddress3"]
+    "winner_address": ["0x9b4b7e5e48bb2f6c9a94c21484d67b7c1cfef37c", "0x6cdd08de79231a1957f205a3fe5cf9dbf4b0c454", "contractAddress3"]
   },
   {
     "round": 2,
-    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+    "winner_address": ["0xd5eaaac47bd1993d661bc087e15dfb079a7f3c19", "0xf86af2fbcf6a0479b21b1d3a4af3893f63207fe7", "contractAddress3"]
   },
   {
     "round": 3,
