@@ -1,7 +1,7 @@
 [
   {
     "round": 1,
-    "winner_address": ["0x6cdd08de79231a1957f205a3fe5cf9dbf4b0c454", "0x9b4b7e5e48bb2f6c9a94c21484d67b7c1cfef37c" "0x3d4f0513e8a29669b960f9dbca61861548a9a760"]
+    "winner_address": ["0x6cdd08de79231a1957f205a3fe5cf9dbf4b0c454", "0x9b4b7e5e48bb2f6c9a94c21484d67b7c1cfef37c", "0x3d4f0513e8a29669b960f9dbca61861548a9a760"]
   },
   {
     "round": 2,
