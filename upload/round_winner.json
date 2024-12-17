@@ -13,6 +13,6 @@
   },
   {
     "round": 4,
-    "winner_address": ["contractAddress1", "contractAddress2", "contractAddress3"]
+    "winner_address": ["0x59e69094398afbea632f8bd63033bdd2443a3be1", "0x4ad663403df2f0e7987bc9c74561687472e1611c", "0x96e8d3a52dd950aacc8d1749932e1c14bc76e371"]
   }
 ]
