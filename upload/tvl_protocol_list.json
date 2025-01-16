@@ -1,0 +1,239 @@
+[
+  {
+    "name": "THENA",
+    "slug": ["thena-v1", "thena-fusion"],
+    "id": [3537, 2864, 2417],
+    "link": "https://defillama.com/protocol/thena#information",
+    "enable": true
+  },
+  {
+    "name": "Minu",
+    "slug": ["minu"],
+    "id": [4066],
+    "link": "https://defillama.com/protocol/minu#information",
+    "enable": true
+  },
+  {
+    "name": "Binlayer",
+    "slug": ["binlayer"],
+    "id": [4743],
+    "link": "https://defillama.com/protocol/binlayer#information",
+    "enable": true
+  },
+  {
+    "name": "Ankr",
+    "slug": ["ankr"],
+    "id": [278],
+    "link": "https://defillama.com/protocol/ankr#information",
+    "enable": true
+  },
+  {
+    "name": "Stader Labs",
+    "slug": ["stader"],
+    "id": [1044],
+    "link": "https://defillama.com/protocol/stader#information",
+    "enable": true
+  },
+  {
+    "name": "THORChain",
+    "slug": ["thorchain"],
+    "id": [412],
+    "link": "https://defillama.com/protocol/thorchain",
+    "enable": true
+  },
+  {
+    "name": "Venus Protocol",
+    "slug": ["venus-core-pool", "venus-isolated-pools"],
+    "id": [212, 3245],
+    "link": "https://defillama.com/protocol/venus#information",
+    "enable": true
+  },
+  {
+    "name": "Lista DAO",
+    "slug": ["lisusd", "slisbnb"],
+    "id": [2038, 3354],
+    "link": "https://defillama.com/protocol/lista-dao#information",
+    "enable": true
+  },
+  {
+    "name": "Kinza Finance",
+    "slug": ["kinza-finance"],
+    "id": [3171],
+    "link": "https://defillama.com/protocol/kinza-finance#information",
+    "enable": true
+  },
+  {
+    "name": "Gamma Strategies",
+    "slug": ["gamma"],
+    "id": [355],
+    "link": "https://defillama.com/protocol/gamma#information",
+    "enable": true
+  },
+  {
+    "name": "StakeStone",
+    "slug": ["stakestone"],
+    "id": [3558],
+    "link": "https://defillama.com/protocol/stakestone",
+    "enable": true
+  },
+  {
+    "name": "Wombat Exchange",
+    "slug": ["wombat-exchange"],
+    "id": [1700],
+    "link": "https://defillama.com/protocol/wombat-exchange#information",
+    "enable": true
+  },
+  {
+    "name": "AAVE",
+    "slug": ["aave-v3", "aave-v2", "aave-v1"],
+    "id": [1838, 111, 1838],
+    "link": "https://defillama.com/protocol/aave",
+    "enable": true
+  },
+  {
+    "name": "Radiant Capital",
+    "slug": ["radiant-v1", "radiant-v2"],
+    "id": [1922, 2706],
+    "link": "https://defillama.com/protocol/radiant#information",
+    "enable": true
+  },
+  {
+    "name": "DODO",
+    "slug": ["dodo"],
+    "id": [146],
+    "link": "https://defillama.com/protocol/dodo#information",
+    "enable": true
+  },
+  {
+    "name": "pSTAKE Finance",
+    "slug": ["pstake-finance"],
+    "id": [709],
+    "link": "https://defillama.com/protocol/pstake-finance",
+    "enable": true
+  },
+  {
+    "name": "Avalon Finance",
+    "slug": ["avalon-finance"],
+    "id": [4473],
+    "link": "https://defillama.com/protocol/avalon-finance#information",
+    "enable": true
+  },
+  {
+    "name": "PancakeSwap",
+    "slug": [
+      "pancakeswap-amm",
+      "pancakeswap-amm-v3",
+      "pancakeswap-stableswap",
+      "pancakeswap-amm-v1",
+      "pancakeswap-perps",
+      "pancakeswap-options"
+    ],
+    "id": [194, 2769, 2529, 2590, 3538, 4967],
+    "link": "https://defillama.com/protocol/pancakeswap",
+    "enable": true
+  },
+  {
+    "name": "Balanced",
+    "slug": ["balanced-dollar"],
+    "id": [3956],
+    "link": "https://defillama.com/protocol/balanceddao#information",
+    "enable": true
+  },
+  {
+    "name": "Pell Network",
+    "slug": ["pell-network"],
+    "id": [4696],
+    "link": "https://defillama.com/protocol/pell-network",
+    "enable": true
+  },
+  {
+    "name": "KiloEx",
+    "slug": ["kiloex"],
+    "id": [3329],
+    "link": "https://defillama.com/protocol/kiloex#information",
+    "enable": true
+  },
+  {
+    "name": "Cakepie",
+    "slug": ["cakepie"],
+    "id": [4007],
+    "link": "https://defillama.com/protocol/cakepie#information",
+    "enable": true
+  },
+  {
+    "name": "Karak",
+    "slug": ["karak"],
+    "id": [4460],
+    "link": "https://defillama.com/protocol/karak-protocol#information",
+    "enable": true
+  },
+  {
+    "name": "Solv Protocol",
+    "slug": ["solv-rwa", "solv-vesting", "solv-funds", "solvbtc"],
+    "id": [4620, 3572, 1667, 3573],
+    "enable": true
+  },
+  {
+    "name": "Lorenzo Protocol",
+    "slug": ["lorenzo-protocol"],
+    "id": [4690],
+    "link": "https://defillama.com/bridged/Lorenzo",
+    "enable": true
+  },
+  {
+    "name": "Harbor Market",
+    "slug": ["harbor-market"],
+    "id": [4131],
+    "link": "https://defillama.com/protocol/harbor-market",
+    "enable": true
+  },
+  {
+    "name": "Ambit Finance",
+    "slug": ["ambit-finance"],
+    "id": [4125],
+    "link": "https://defillama.com/protocol/ambit-finance",
+    "enable": true
+  },
+  {
+    "name": "B² Network",
+    "slug": ["b2-buzz"],
+    "id": [4141],
+    "link": "https://defillama.com/protocol/b2-network",
+    "enable": true
+  },
+  {
+    "name": "BitU Protocol",
+    "slug": ["bitu-protocol"],
+    "id": [4818],
+    "link": "https://defillama.com/protocol/bitu-protocol",
+    "enable": true
+  },
+  {
+    "name": "BounceBit",
+    "slug": ["bouncebit"],
+    "id": [4656],
+    "link": "https://defillama.com/protocol/bouncebit",
+    "enable": true
+  },
+  {
+    "name": "Solidus Ai Tech",
+    "slug": ["aitech"],
+    "id": [3719],
+    "link": "https://defillama.com/protocol/aitech#information",
+    "enable": true
+  },
+  {
+    "name": "ApeX Protocol",
+    "slug": ["apex-protocol"],
+    "id": [1878],
+    "link": "https://defillama.com/protocol/apex-protocol",
+    "enable": true
+  },
+  {
+    "name": "ApeBond",
+    "slug": ["apeswap-amm", "apeswap-lending", "apebond-staking"],
+    "id": [398, 1940, 4155],
+    "link": "https://defillama.com/protocol/apebond",
+    "enable": true
+  }
+]
