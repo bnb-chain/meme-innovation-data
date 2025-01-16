@@ -4,8 +4,9 @@
 1. Go to protocol page on defillama and copy the protocol name
 2. Search for protocol data in https://api.llama.fi/protocols.
 3. Add slug, id and protocol link into tvl_protocol_list.
+```json
     {
-      "id": "4967",  <-- id
+      "id": "4967", // <-- id
       "name": "PancakeSwap Options",
       "address": "bsc:0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "symbol": "CAKE",
@@ -24,15 +25,16 @@
       "module": "pancake-stryke/index.js",
       "audit_links": [],
       "twitter": "PancakeSwap",
-      "parentProtocol": "parent#pancakeswap",  <--- parent protocol
-      "listedAt": ...,
-      "slug": "pancakeswap-options",  <-- slug
-      "tvl": ...,
+      "parentProtocol": "parent#pancakeswap",  // <--- parent protocol
+      "listedAt": "...",
+      "slug": "pancakeswap-options",  // <-- slug
+      "tvl": "...",
       "chainTvls": {
-        "Arbitrum": ...
+        "Arbitrum": "..."
       },
       "mcap": null
     }
+```
 4. If the protocol has 'parentProtocol'. Please add all protocol slugs and ids belong to the same parent protocol into object to prevent losing data.
 
 
