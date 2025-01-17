@@ -62,7 +62,8 @@
     ],
     "id": [194, 2769, 2529, 2590, 3538, 4967],
     "link": "https://defillama.com/protocol/pancakeswap",
-    "enable": true
+    "enable": true,
+    "group": "partA"
   },
 ```
 2. If the protocol has 'parentProtocol' attributes please find all protocols sharing the same parent protocol, and include all slugs and ids into `tvl_protocol_list` to prevent data loss.
