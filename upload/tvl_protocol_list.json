@@ -47,7 +47,7 @@
     "enable": true,
     "group": "partA"
   },
-    {
+  {
     "name": "KERNELDAO",
     "slug": ["kernel"],
     "id": [5537],
@@ -55,7 +55,7 @@
     "enable": true,
     "group": "partA"
   },
-     {
+  {
     "name": "LOOP",
     "slug": ["loop"],
     "id": [4793],
@@ -101,5 +101,5 @@
     "link": "https://defillama.com/protocol/karak#information",
     "enable": true,
     "group": "partA"
-  },
+  }
 ]
