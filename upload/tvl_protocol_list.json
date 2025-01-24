@@ -1,49 +1,73 @@
 [
   {
+    "name": "LISTA-DAO",
+    "slug": ["slisbnb", "lisusd"],
+    "id": [3354, 2038],
+    "link": "https://defillama.com/protocol/lista-dao#information",
+    "enable": true,
+    "group": "partA"
+  },
+  {
     "name": "THENA",
-    "slug": ["thena-v1", "thena-fusion"],
+    "slug": ["thena-v1", "thena-fusion", "thena-alpha"],
     "id": [3537, 2864, 2417],
     "link": "https://defillama.com/protocol/thena#information",
     "enable": true,
     "group": "partA"
   },
   {
-    "name": "Minu",
-    "slug": ["minu"],
-    "id": [4066],
-    "link": "https://defillama.com/protocol/minu#information",
+    "name": "BEDROCK",
+    "slug": ["unibtc-restaked", "bedrock-brbtc"],
+    "id": [5295, 5567],
+    "link": "https://defillama.com/protocol/bedrock#information",
     "enable": true,
     "group": "partA"
   },
   {
-    "name": "Binlayer",
-    "slug": ["binlayer"],
-    "id": [4743],
-    "link": "https://defillama.com/protocol/binlayer#information",
+    "name": "YIELDNEST",
+    "slug": ["yieldnest"],
+    "id": [4993],
+    "link": "https://defillama.com/protocol/yieldnest#information",
     "enable": true,
     "group": "partA"
   },
   {
-    "name": "Ankr",
-    "slug": ["ankr"],
-    "id": [278],
-    "link": "https://defillama.com/protocol/ankr#information",
+    "name": "PENDLE",
+    "slug": ["pendle"],
+    "id": [382],
+    "link": "https://defillama.com/protocol/pendle#information",
     "enable": true,
     "group": "partA"
   },
   {
-    "name": "Stader Labs",
-    "slug": ["stader"],
-    "id": [1044],
-    "link": "https://defillama.com/protocol/stader#information",
+    "name": "ASTHERUS",
+    "slug": ["astherus-usdf", "astherus-asbtc", "astherus-asbnb", "astherus-perps"],
+    "id": [5386, 5418, 5558, 4847],
+    "link": "https://defillama.com/protocol/astherus#information",
+    "enable": true,
+    "group": "partA"
+  },
+    {
+    "name": "KERNELDAO",
+    "slug": ["kernel"],
+    "id": [5537],
+    "link": "https://defillama.com/protocol/kerneldao#information",
+    "enable": true,
+    "group": "partA"
+  },
+     {
+    "name": "LOOP",
+    "slug": ["loop"],
+    "id": [4793],
+    "link": "https://defillama.com/protocol/loop#information",
     "enable": true,
     "group": "partA"
   },
   {
-    "name": "THORChain",
-    "slug": ["thorchain"],
-    "id": [412],
-    "link": "https://defillama.com/protocol/thorchain",
+    "name": "TRANCHESS",
+    "slug": ["tranchess-yield"],
+    "id": [425],
+    "link": "https://defillama.com/protocol/tranchess#information",
     "enable": true,
     "group": "partA"
   },
@@ -52,86 +76,6 @@
     "slug": ["venus-core-pool", "venus-isolated-pools"],
     "id": [212, 3245],
     "link": "https://defillama.com/protocol/venus#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Lista DAO",
-    "slug": ["lisusd", "slisbnb"],
-    "id": [2038, 3354],
-    "link": "https://defillama.com/protocol/lista-dao#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Kinza Finance",
-    "slug": ["kinza-finance"],
-    "id": [3171],
-    "link": "https://defillama.com/protocol/kinza-finance#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Gamma Strategies",
-    "slug": ["gamma"],
-    "id": [355],
-    "link": "https://defillama.com/protocol/gamma#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "StakeStone",
-    "slug": ["stakestone"],
-    "id": [3558],
-    "link": "https://defillama.com/protocol/stakestone",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Wombat Exchange",
-    "slug": ["wombat-exchange"],
-    "id": [1700],
-    "link": "https://defillama.com/protocol/wombat-exchange#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "AAVE",
-    "slug": ["aave-v3", "aave-v2", "aave-v1"],
-    "id": [1838, 111, 1838],
-    "link": "https://defillama.com/protocol/aave",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Radiant Capital",
-    "slug": ["radiant-v1", "radiant-v2"],
-    "id": [1922, 2706],
-    "link": "https://defillama.com/protocol/radiant#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "DODO",
-    "slug": ["dodo"],
-    "id": [146],
-    "link": "https://defillama.com/protocol/dodo#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "pSTAKE Finance",
-    "slug": ["pstake-finance"],
-    "id": [709],
-    "link": "https://defillama.com/protocol/pstake-finance",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Avalon Finance",
-    "slug": ["avalon-finance"],
-    "id": [4473],
-    "link": "https://defillama.com/protocol/avalon-finance#information",
     "enable": true,
     "group": "partA"
   },
@@ -146,39 +90,7 @@
       "pancakeswap-options"
     ],
     "id": [194, 2769, 2529, 2590, 3538, 4967],
-    "link": "https://defillama.com/protocol/pancakeswap",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Balanced",
-    "slug": ["balanced-dollar"],
-    "id": [3956],
-    "link": "https://defillama.com/protocol/balanceddao#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Pell Network",
-    "slug": ["pell-network"],
-    "id": [4696],
-    "link": "https://defillama.com/protocol/pell-network",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "KiloEx",
-    "slug": ["kiloex"],
-    "id": [3329],
-    "link": "https://defillama.com/protocol/kiloex#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Cakepie",
-    "slug": ["cakepie"],
-    "id": [4007],
-    "link": "https://defillama.com/protocol/cakepie#information",
+    "link": "https://defillama.com/protocol/pancakeswap#information",
     "enable": true,
     "group": "partA"
   },
@@ -186,87 +98,8 @@
     "name": "Karak",
     "slug": ["karak"],
     "id": [4460],
-    "link": "https://defillama.com/protocol/karak-protocol#information",
+    "link": "https://defillama.com/protocol/karak#information",
     "enable": true,
     "group": "partA"
   },
-  {
-    "name": "Solv Protocol",
-    "slug": ["solv-rwa", "solv-vesting", "solv-funds", "solvbtc"],
-    "id": [4620, 3572, 1667, 3573],
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Lorenzo Protocol",
-    "slug": ["lorenzo-protocol"],
-    "id": [4690],
-    "link": "https://defillama.com/bridged/Lorenzo",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Harbor Market",
-    "slug": ["harbor-market"],
-    "id": [4131],
-    "link": "https://defillama.com/protocol/harbor-market",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Ambit Finance",
-    "slug": ["ambit-finance"],
-    "id": [4125],
-    "link": "https://defillama.com/protocol/ambit-finance",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "B² Network",
-    "slug": ["b2-buzz"],
-    "id": [4141],
-    "link": "https://defillama.com/protocol/b2-network",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "BitU Protocol",
-    "slug": ["bitu-protocol"],
-    "id": [4818],
-    "link": "https://defillama.com/protocol/bitu-protocol",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "BounceBit",
-    "slug": ["bouncebit"],
-    "id": [4656],
-    "link": "https://defillama.com/protocol/bouncebit",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "Solidus Ai Tech",
-    "slug": ["aitech"],
-    "id": [3719],
-    "link": "https://defillama.com/protocol/aitech#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "ApeX Protocol",
-    "slug": ["apex-protocol"],
-    "id": [1878],
-    "link": "https://defillama.com/protocol/apex-protocol",
-    "enable": true,
-    "group": "partA"
-  },
-  {
-    "name": "ApeBond",
-    "slug": ["apeswap-amm", "apeswap-lending", "apebond-staking"],
-    "id": [398, 1940, 4155],
-    "link": "https://defillama.com/protocol/apebond",
-    "enable": true,
-    "group": "partA"
-  }
 ]
