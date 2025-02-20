@@ -72,14 +72,6 @@
     "group": "partA"
   },
   {
-    "name": "Venus Protocol",
-    "slug": ["venus-core-pool", "venus-isolated-pools"],
-    "id": [212, 3245],
-    "link": "https://defillama.com/protocol/venus#information",
-    "enable": true,
-    "group": "partA"
-  },
-  {
     "name": "PancakeSwap",
     "slug": [
       "pancakeswap-amm",
