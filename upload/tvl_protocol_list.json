@@ -17,7 +17,7 @@
   },
   {
     "name": "BEDROCK",
-    "slug": ["unibtc-restaked", "bedrock-brbtc"],
+    "slug": ["bedrock-unibtc", "bedrock-brbtc"],
     "id": [5295, 5567],
     "link": "https://defillama.com/protocol/bedrock#information",
     "enable": true,
